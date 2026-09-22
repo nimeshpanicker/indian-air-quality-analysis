@@ -198,26 +198,6 @@ Because the Health Impact Score is constant, meaningful health-impact modelling 
 
 ---
 
-## 🖼️ Visualizations
-
-### AQI Distribution
-
-![AQI Distribution](screenshots/aqi-distribution.png)
-
-### AQI Categories
-
-![AQI Categories](screenshots/aqi-categories.png)
-
-### City AQI Analysis
-
-![City AQI Analysis](screenshots/city-aqi-analysis.png)
-
-### Pollutant Correlation
-
-![Pollutant Correlation](screenshots/pollutant-correlation.png)
-
----
-
 ## 📁 Project Structure
 
 ```text
